@@ -10,6 +10,8 @@ https://automatetheboringstuff.com/
 
 # conda명령어 정리
 
+- 32bit win32가상환경 설정
+
 https://gentlesark.tistory.com/100
 
 #Updating~
